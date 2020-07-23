@@ -1,16 +1,15 @@
-### Hi there 👋
+# Uriel Sosa  :star:desarrollador:star:
+Hola soy Uriel y soy desarrollador web y técnico en informatica, actualmente trabajo en [Digital House Argentina](https://www.digitalhouse.com/) como profesor adjunto. Vivo en Buenos Aires Argentina, me gusta mirar series :tv:, cocinar :hamburger: y descubrir cosas nuevas que vayan surgiendo en la tecnología. 
 
-<!--
-**UrielSosa/UrielSosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mi experiencia
+- En mi experiencia trabajando como desarrollador descubrí la autonomía para buscar soluciones a inconvenientes que iban surgiendo en el código.
+- Al estar como profesor adjunto encontré la forma de ayudar a los alumnos en la manera de organizarse, por ahí desbloqueando conocimientos o guiarlos para que descubran que les gusta más en la programación.
 
-Here are some ideas to get you started:
+## Mis hobbies
+:soccer: Los deportes <br>
+:tv: Mirar series o pelis <br>
+:video_game: Jugar <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contactame por:
+[LinkedIn](https://www.linkedin.com/in/uriel-sosa/) | 
+[Instagram](https://www.instagram.com/uriel.sosa1/)
